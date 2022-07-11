@@ -13,4 +13,5 @@ All the parameters are :-
 9. Seasons 
 10. Holiday
 11. Working Day
+
 We did intense data analysis . Observed the trend during Weeks , Months , Weekdays and in many other way. Various models were tried and tested and finally we selected CATBOOST for our project.
