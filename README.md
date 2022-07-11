@@ -2,9 +2,7 @@
 A machine learning project helps in predicting demand of bikes needed under certain cirucmstances.
 
 In this we have prepared a model which can predict the price of Bike during different circumstances.
-
 All the parameters are :-
-
 1. Hour 
 2. Hotness
 3. Humidity
